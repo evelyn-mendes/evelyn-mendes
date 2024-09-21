@@ -18,7 +18,7 @@
   </tr>
 </table>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=evelyn-mendes&show_icons=true&theme=radical)](https://github.com/evelyn-mendes/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evelyn-mendes&show_icons=true&color=E94D5F&theme=radical)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=evelyn-mendes&layout=compact&bg_color=141321&border&title_color=E94D5F&text_color=A9FEF7&icon_color=F8D866&border_color=white)
 
 
