@@ -22,7 +22,7 @@
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=evelyn-mendes&show_icons=true&color=E94D5F&theme=radical" alt="GitHub Stats" />
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3g3eDZ5bTh3ZTk2ZWp1ZDdhdWN6MjRxMTI2MmJyeG9lejN3YjV3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif" alt="Gif" width="400" align="right">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3g3eDZ5bTh3ZTk2ZWp1ZDdhdWN6MjRxMTI2MmJyeG9lejN3YjV3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6XX4V0O8a0xdS/giphy.gif" alt="Gif" width="350" align="right">
 </div>
 
 
