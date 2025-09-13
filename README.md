@@ -7,18 +7,13 @@
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="GIF via GIPHY" width="700" height="400">
 </p>
 
-<table border="none">
-  <tr>
-    <td>
-       <h2> Sejam bem-vindos(as)! ❤ </h2>
-      <p>Olá 👋, meu nome é Evelyn. E sou uma estudante apaixonada por tecnologia. Atualmente curso Análise e Desenvolvimento de Sistemas. </p>
-    </td>
-    <td>
-      <img src="Webinar-amico.png" width="800px">
-    </td>
-  </tr>
-</table>
 
+<p align="center">
+  <h2 align="center"> Sejam bem-vindos(as)! ❤ </h2>
+  <p>Olá 👋, meu nome é Evelyn. E sou uma estudante apaixonada por tecnologia. Atualmente curso Análise e Desenvolvimento de Sistemas. </p>
+</p>
+
+<h2></h2>
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img src="https://github-readme-stats.vercel.app/api?username=evelyn-mendes&show_icons=true&color=E94D5F&theme=radical" alt="GitHub Stats" />
